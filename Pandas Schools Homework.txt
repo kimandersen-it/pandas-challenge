@@ -1,0 +1,7 @@
+
+Oberservations on the data:
+
+- Smaller schools have lower math and reading scores averages than larger schools, 
+	but they have an overall higher percentages of students with passing grades.
+
+- District schools perform better overall than Charter schools
